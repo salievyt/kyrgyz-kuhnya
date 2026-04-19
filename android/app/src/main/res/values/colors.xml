@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основной цвет фона для сплеш-скрина (красный из градиента) -->
+    <color name="splash_background">#E63946</color>
+</resources>
